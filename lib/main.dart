@@ -17,8 +17,7 @@ class UserId extends StatelessWidget {
         routes:{
           '/': (context) => FormPage(),
           '/card': (context) => CardPage(),
-          // '/form': (context) => const RegistrationForm(),
-          // '/userId': (context) => const ID(),
+        
         }
     );
   }
